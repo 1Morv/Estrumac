@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 58" width="100%" height="100%">
+  <style>
+    .text-estru {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 300;
+      font-size: 34px;
+      fill: #ffffff;
+      letter-spacing: 5px;
+    }
+    .text-mac {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 700;
+      font-size: 34px;
+      fill: #ffffff;
+      letter-spacing: 1px;
+    }
+  </style>
+  <g transform="translate(10, 4)">
+    <!-- ESTRU -->
+    <text x="0" y="38" class="text-estru">ESTRU</text>
+    <!-- Yellow Rounded Square -->
+    <rect x="156" y="2" width="104" height="46" rx="10" fill="#f5c400" />
+    <!-- MAC -->
+    <text x="167" y="37" class="text-mac">MAC</text>
+  </g>
+</svg>
